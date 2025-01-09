@@ -1,1 +1,0 @@
-# Como configurar o ambiente de testes
